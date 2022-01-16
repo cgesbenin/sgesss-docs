@@ -7,16 +7,22 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="_styles/print.css">
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: 'Documentation du SGESSS',
+      repo: 'cgesbenin/sgesss-docs',
+      loadSidebar: true,
+      logo: '_media/logo.svg',
+      themeColor: '#00973A'
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="_scripts/printjs.js"></script>
+  <script src="_scripts/print.js"></script>
 </body>
 </html>
