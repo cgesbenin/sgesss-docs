@@ -42,3 +42,49 @@ La thématique **Gestion** regroupe les modules suivants :
         * évaluation de la formation
         * statistiques – Liste des participants aux sessions. Permet de savoir quel usager du SGESS a suivi et quand les formations obligatoires (par ex. en Santé-Sécurité). Exportation sous forme de tableur
 
+* Module [Réunions](gestion/reunions/reunions.md)  
+
+    :bulb: **Faits saillants :** 
+  1) organisation et convocation de réunion physique ou virtuelle
+  2) production du procès-verbal pendant le déroulement de la réunion
+  3) signature électronique du procès-verbal
+  4) intégration au calendrier et au module de planification
+
+  Le module réunions permet de :  
+    * choisir le type de réunion : cadrage, coordination, suivi, ad-hoc
+    * de réaliser une réunion en présentiel ou en distanciel : plateforme de vidéo-conférence intégrée au SGESSS
+    * l'invitation automatique des participants (usagers du SGESSS)
+    * de créer un ordre du jour interactif :
+        * décisions prises lors la réunion pour chaque point à l’ordre du jour
+        * consultation et téléchargement des fichiers attachés
+    * faire la planification des activités et des tâches
+    * rédiger automatiquement un procès-verbal de la réunion (ordre du jour + décisions prises) envoyé aux participants pour commentaires et approbation (signature électronique)
+    * archiver automatiquement le PV dans l’espace documentaire
+    * de produire les statistiques de réunions
+
+* Module [Planification](gestion/planification/planification.md)
+
+    :bulb: **Faits saillants :** 
+  1) établir les rôles et les responsabilités des parties prenantes dans la réalisation des activités et des tâches 
+  2) intégration au calendrier et aux modules de réunion et risques
+  3) visualisation en temps réel de l’avancement
+
+  Le module planification permet de :  
+    * choisir le type de réunion : cadrage, coordination, suivi, ad-hoc
+    * de réaliser une réunion en présentiel ou en distanciel : plateforme de vidéo-conférence intégrée au SGESSS
+
+* Module [Cartographie](gestion/cartographie/cartographie.md)
+
+* Module [Communication](gestion/communication/communication.md)
+
+* Module [Risques](gestion/risques/risques.md)
+
+* Module [Tableau de bord](gestion/tableau_bord/tableau_bord.md)
+
+* Module [Indicateurs](gestion/indicateurs/indicateurs.md)
+
+* Module [Fiche interactive](gestion/fiche_interactive/fiche_interactive.md)
+
+* Module [Aide](gestion/aide/aide.md)
+
+* Module [DAO](gestion/dao/dao.md)
