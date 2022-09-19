@@ -19,7 +19,7 @@ La thématique **Gestion** regroupe les modules suivants :
         * stockage automatique des documents suivants : procès-verbaux de réunion, fiches d’indemnisation, déclarations d’accidents, bordereaux de transport des déchets.
         * stockage des documents ad-hoc : rapports, manuels de formation, guides, etc
     * la gestion des droits d'accès aux documents
-    * un accès contextuel en focntion du module actif
+    * un accès contextuel en fonction du module actif
 
 * Module [Formation](gestion/formation/formation.md)  
 
@@ -88,3 +88,4 @@ La thématique **Gestion** regroupe les modules suivants :
 * Module [Aide](gestion/aide/aide.md)
 
 * Module [DAO](gestion/dao/dao.md)
+
