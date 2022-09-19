@@ -16,3 +16,7 @@
 ** [Fiche interactive](gestion/fiche_interactive/fiche_interactive.md)
 ** [Aide](gestion/aide/aide.md)
 ** [DAO](gestion/dao/dao.md)
+* [Santé sécurité](sante_securite/README.md)
+** [Déclaration d'accident](sante_securite/accident/README.md)
+** [Déclaration de maladie infectieuse](sante_securite/maladie/README.md)
+** [Autorisation de travail](sante_securite/autorisation/README.md)
