@@ -13,7 +13,7 @@ le sous-module **statistiques** présente les statistiques relatives au nombre d
 * avec arrêt de travail
 * sans arrêt de travail
 
-![img](docs/_media/sante_securite/accident_2.jpg)
+![img](docs/_media/sante_securite/accident_2.png)
 
 ## Registre des accidents
 
