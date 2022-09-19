@@ -2,7 +2,7 @@
 
 Le module **déclaration d'accidents** est composé de plusieurs sous-modules. Pour accéder à un de ces sous-modules, cliquer sur *ouvrir* situé sous l'icône et la description sommaire.
 
-![img](docs/_media/sante_securite/accident_1.jpg)
+![img](/_media/sante_securite/accident_1.jpg)
 
 ## Faire une déclaration
 
@@ -13,7 +13,7 @@ le sous-module **statistiques** présente les statistiques relatives au nombre d
 * avec arrêt de travail
 * sans arrêt de travail
 
-![img](docs/_media/sante_securite/accident_2.png)
+![img](/_media/sante_securite/accident_2.png)
 
 ## Registre des accidents
 
