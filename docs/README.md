@@ -1,12 +1,6 @@
-# Documentation du SGESSS
+# Documentation de la plateforme
 
-> Ce site constitue la documentation du SGESSS
+à venir
 
-Ajout d'un paragraphe
 
-## Deuxième titre
-
-### Troisième titre
-
-### Quatrième titre
 

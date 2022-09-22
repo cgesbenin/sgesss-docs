@@ -77,17 +77,33 @@ Le module planification permet de :
 
 # Module Cartographie
 
+à venir
+
 # Module Communication
+
+à venir
 
 # Module Risques
 
+à venir
+
 # Module Tableau de bord
+
+à venir
 
 # Module Indicateurs
 
+à venir
+
 # Module Fiche interactive
+
+à venir
 
 # Module Aide
 
+à venir
+
 # Module DAO
+
+à venir
 

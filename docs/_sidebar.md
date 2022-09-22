@@ -1,4 +1,4 @@
-* [Documentation du SGESSS](/)
+* [Documentation de la plateforme](/)
 * [Se connecter à la plateforme](connexions.md)
 * [Gestion](gestion/README.md)
 ** [Administration](gestion/README.md#module-administration)

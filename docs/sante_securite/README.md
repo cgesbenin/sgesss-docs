@@ -115,19 +115,19 @@ Le nombre d'éléments (accidents) affichés et le nombre total d'éléments est
 
 Vous pouvez passer d'une page à l'autre en cliquant sur les boutons en bas à droite du tableau
 
-image
+image à venir
 
 Vous pouvez trier les colonnes en cliquant dans l'en-tête
 
-image
+image à venir
 
 Vous pouvez ajuster le nombre d'éléments (accidents) qui s'affichent sur une page
 
-image
+image à venir
 
 Vous pouvez rechercher des éléments (accidents) spécifiques en saisissant les informations pertinentes dans la boite de dialogue ***Rechercher***
 
-image
+image à venir
 
 Vous pouvez exporter le registre en format Excel (xlsx) en cliquant sur le bouton ***Exporter le registre*** situé en haut à gauche du tableau. Le registre exporté contient les informations suivantes (colonnes) :
 - Code de l'accident : code unique généré automatiquement par la plateforme
@@ -165,7 +165,7 @@ Ce sous-module permet de gérer la liste des personnes à aviser en cas de nouve
 
 ![img](_media/accident_18.jpg)
 
-Pour supprimer le nom d'une personne sélectionnée (colonne de doite), il suffit de cliquer sur son nom.
+Pour supprimer le nom d'une personne sélectionnée (colonne de droite), il suffit de cliquer sur son nom.
 
 Lorsque c'est terminé, cliquez sur le bouton ***Valider***
 
