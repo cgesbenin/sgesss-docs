@@ -15,7 +15,6 @@
 ** [Indicateurs](gestion/README.md#module-indicateurs)
 ** [Fiche interactive](gestion/README.md#module-fiche-interactive)
 ** [Aide](gestion/README.md#module-aide)
-** [DAO](gestion/README.md#module-dao)
 * [Santé sécurité](sante_securite/README.md)
 ** [Déclaration d'accident](sante_securite/README.md#module-déclaration-d39accidents)
 ** [Déclaration de maladie infectieuse](sante_securite/README.md#module-déclaration-des-maladies-infectieuses)
